@@ -4,4 +4,6 @@ Vernost family Developer
 learning{python}
 
 Discord configure 
+
+Esf_lR
 ...!
